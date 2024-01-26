@@ -5,7 +5,7 @@ import "./globals.scss"
 const note = Noto_Sans_JP({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "セルマネ | Self Management Planner",
+  title: "iSMP | Self-Management Planner",
   description: "Created by weak-kajuma & takapc",
 }
 
